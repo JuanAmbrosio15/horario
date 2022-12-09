@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">employee</string>
+
+    <string-array name="gradoAcademico">
+        <item>Bachillerato</item>
+        <item>Licenciatura</item>
+        <item>Maestria</item>
+        <item>Doctorado</item>
+    </string-array>
+
+    <string-array name="genero">
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Helicoptero Apache</item>
+    </string-array>
+
+</resources>
